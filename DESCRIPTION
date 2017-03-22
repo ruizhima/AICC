@@ -1,0 +1,10 @@
+Package: AICC
+Type: Package
+Title: Corrected AIC
+Version: 0.1.0
+Author: Ruizhi Ma
+Maintainer: Ruizhi Ma <ruizhima@sas.upenn.edu>
+Description: Replicating Monte Carlo Results for Hurvich and Tsai (1993): Comparing performances of four model selection criteria (AIC, corrected AIC, SIC and AIC_{c}^{BD}) for time-series models.
+License: MIT
+Encoding: UTF-8
+LazyData: true
